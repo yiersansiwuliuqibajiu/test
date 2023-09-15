@@ -1,6 +1,6 @@
 <template>
   <div class="flex items-center justify-center h-screen m-10 bg-red-100">
-    按钮
+    按钮测试
   </div>
   <test-button placeholderTxt="xxx" />
 </template>
