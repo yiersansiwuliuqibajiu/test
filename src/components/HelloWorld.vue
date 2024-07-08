@@ -1,16 +1,16 @@
 <template>
-  <div class="flex items-center justify-center h-screen m-10 bg-red-100">
-    按钮测试
+  <div class="flex items-center justify-center h-screen m-10">
+    按钮测试1111
+    <nut-uploader url="http://服务器地址" capture></nut-uploader>
   </div>
-  <test-button placeholderTxt="xxx" />
+  <book />
 </template>
 
 
 <script setup >
-import { ipv4Regex } from 'uuu-reg-test';
 import { onMounted } from 'vue';
 onMounted(() => {
-  console.log(ipv4Regex)
+
 })
 
 </script>
