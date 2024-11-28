@@ -1,6 +1,6 @@
 <template>
   <div class="flex items-center justify-center h-screen m-10">
-    按钮测试111111
+    按钮测试1111112222
     <nut-uploader url="http://服务器地址" capture></nut-uploader>
   </div>
   <book />
